@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\2025 Modules\1st Semester\PROG5121 (Programming 1A)\CyberBot\bin\Debug\net8.0\CyberBot.exe
+C:\Users\hp\Desktop\2025 Modules\1st Semester\PROG5121 (Programming 1A)\CyberBot\bin\Debug\net8.0\CyberBot.deps.json
+C:\Users\hp\Desktop\2025 Modules\1st Semester\PROG5121 (Programming 1A)\CyberBot\bin\Debug\net8.0\CyberBot.runtimeconfig.json
+C:\Users\hp\Desktop\2025 Modules\1st Semester\PROG5121 (Programming 1A)\CyberBot\bin\Debug\net8.0\CyberBot.dll
+C:\Users\hp\Desktop\2025 Modules\1st Semester\PROG5121 (Programming 1A)\CyberBot\bin\Debug\net8.0\CyberBot.pdb
+C:\Users\hp\Desktop\2025 Modules\1st Semester\PROG5121 (Programming 1A)\CyberBot\obj\Debug\net8.0\CyberBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\2025 Modules\1st Semester\PROG5121 (Programming 1A)\CyberBot\obj\Debug\net8.0\CyberBot.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\2025 Modules\1st Semester\PROG5121 (Programming 1A)\CyberBot\obj\Debug\net8.0\CyberBot.AssemblyInfo.cs
+C:\Users\hp\Desktop\2025 Modules\1st Semester\PROG5121 (Programming 1A)\CyberBot\obj\Debug\net8.0\CyberBot.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\2025 Modules\1st Semester\PROG5121 (Programming 1A)\CyberBot\obj\Debug\net8.0\CyberBot.dll
+C:\Users\hp\Desktop\2025 Modules\1st Semester\PROG5121 (Programming 1A)\CyberBot\obj\Debug\net8.0\refint\CyberBot.dll
+C:\Users\hp\Desktop\2025 Modules\1st Semester\PROG5121 (Programming 1A)\CyberBot\obj\Debug\net8.0\CyberBot.pdb
+C:\Users\hp\Desktop\2025 Modules\1st Semester\PROG5121 (Programming 1A)\CyberBot\obj\Debug\net8.0\CyberBot.genruntimeconfig.cache
+C:\Users\hp\Desktop\2025 Modules\1st Semester\PROG5121 (Programming 1A)\CyberBot\obj\Debug\net8.0\ref\CyberBot.dll
